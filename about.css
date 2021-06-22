@@ -1,0 +1,23 @@
+*{
+			padding: 0;
+			margin: 10;
+			position: absolute;
+	       top: 5;
+		    left:0;
+		    width: 100%;
+		    z-index: -1;
+	        background-color: #ffffff40;
+		}
+
+		h1{
+			width: 60%;
+			height: 20px;
+			padding: 30px;
+			position: relative;
+			top: 10px;
+			background: #ffffff40;
+			text-align: left;
+			margin: 0px auto;
+			margin-top: 0px;
+		}
+		

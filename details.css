@@ -1,0 +1,16 @@
+*{
+			padding: 0;
+			margin: 0;
+			
+		}
+
+h1{
+			color:black;
+			font-size: 60px;
+			width: 100%;
+	margin: 10px auto;
+	height:50%;
+			font-weight: bold;
+	        text-align: center;
+	background-color:powderblue;
+}
